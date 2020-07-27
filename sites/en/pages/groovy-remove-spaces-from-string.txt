@@ -33,4 +33,4 @@ groovy remove_spaces_no_escape.gvy
 </code>
 
 <h2>Using an inherited java method</h2>
-The trim() from java String class removes any leading or trailing spaces from a string.
+The trim() from <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/String.html#trim--">java String class</a> removes any leading or trailing spaces from a string.
