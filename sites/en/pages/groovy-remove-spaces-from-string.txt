@@ -32,3 +32,5 @@ $ groovy remove_spaces.gvy
 groovy remove_spaces_no_escape.gvy
 </code>
 
+<h2>Using an inherited java method</h2>
+The trim() from java String class removes any leading or trailing spaces from a string.
